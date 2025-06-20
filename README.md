@@ -1,1 +1,1 @@
-# sum-of-two-digits
+# sum-of-two-numbers
